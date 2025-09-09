@@ -5,6 +5,10 @@ The ESP32 program responsible for communication is a serial communication progra
 
 If you want to upload the *.ino to esp32, you need to remove the RX TX wires first, and then reconnect them after the upload is complete.
 
+The circuit diagram:
+
+<img width="689" height="760" alt="circuit_diagram" src="https://github.com/user-attachments/assets/968cecd5-a02c-4737-9664-660b99db00cb" />
+
 Video: https://youtu.be/byzIyTP84rI
 
 ESP32 Marauder: https://github.com/justcallmekoko/ESP32Marauder
