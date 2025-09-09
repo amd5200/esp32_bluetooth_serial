@@ -9,6 +9,8 @@ The circuit diagram:
 
 <img width="689" height="760" alt="circuit_diagram" src="https://github.com/user-attachments/assets/968cecd5-a02c-4737-9664-660b99db00cb" />
 
+circuit diagram on WoKwi: https://wokwi.com/projects/441620851178726401
+
 Video: https://youtu.be/byzIyTP84rI
 
 ESP32 Marauder: https://github.com/justcallmekoko/ESP32Marauder
